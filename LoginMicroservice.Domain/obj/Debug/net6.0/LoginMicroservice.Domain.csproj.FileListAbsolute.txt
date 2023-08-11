@@ -1,0 +1,12 @@
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\bin\Debug\net6.0\LoginMicroservice.Domain.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\bin\Debug\net6.0\LoginMicroservice.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\bin\Debug\net6.0\LoginMicroservice.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\refint\LoginMicroservice.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\LoginMicroservice.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Domain\obj\Debug\net6.0\ref\LoginMicroservice.Domain.dll

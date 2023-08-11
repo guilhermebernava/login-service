@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZL6RD6Ovp1faFyC7r9M/L74EktjECty4dfBR3UJiAAA=",
+  "Source": "LoginMicroservice.Api",
+  "BasePath": "_content/LoginMicroservice.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

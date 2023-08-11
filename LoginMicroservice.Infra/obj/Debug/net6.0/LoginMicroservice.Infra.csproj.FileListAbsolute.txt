@@ -1,0 +1,17 @@
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\bin\Debug\net6.0\LoginMicroservice.Infra.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\bin\Debug\net6.0\LoginMicroservice.Infra.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\bin\Debug\net6.0\LoginMicroservice.Infra.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\bin\Debug\net6.0\LoginMicroservice.Infra.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\bin\Debug\net6.0\LoginMicroservice.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\bin\Debug\net6.0\LoginMicroservice.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\refint\LoginMicroservice.Infra.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\LoginMicroservice.Infra.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Infra\obj\Debug\net6.0\ref\LoginMicroservice.Infra.dll
