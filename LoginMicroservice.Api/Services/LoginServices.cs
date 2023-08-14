@@ -1,5 +1,6 @@
 ﻿using FluentValidation;
 using LoginMicroservice.Api.Dtos;
+using LoginMicroservice.Api.RabbitMq;
 using LoginMicroservice.Api.Services.Interfaces;
 using LoginMicroservice.Api.Utils;
 using LoginMicroservice.Domain.RedisRepositories;
@@ -13,13 +14,15 @@ public class LoginServices : ILoginServices
     private readonly IConfiguration _configuration;
     private readonly ITwoFactorRepository _twoFactorRepository;
     private readonly IValidator<LoginDto> _validator;
+    private readonly IEmailSenderRabbitMq _emailSender;
 
-    public LoginServices(IUserRepository userRepository, IValidator<LoginDto> validator, ITwoFactorRepository twoFactorRepository, IConfiguration configuration)
+    public LoginServices(IUserRepository userRepository, IValidator<LoginDto> validator, ITwoFactorRepository twoFactorRepository, IConfiguration configuration, IEmailSenderRabbitMq emailSender)
     {
         _userRepository = userRepository;
         _validator = validator;
         _twoFactorRepository = twoFactorRepository;
         _configuration = configuration;
+        _emailSender = emailSender;
     }
 
     public async Task<LoginResponseDto> Call(LoginDto? value = null)
@@ -44,7 +47,7 @@ public class LoginServices : ILoginServices
             var code = random.Next(100000, 999999).ToString();
             await _twoFactorRepository.SetAsync(code, user.Id.ToString());
 
-            EmailSender.SendEmail(value.Email, code, _configuration);
+            _emailSender.Execute(value.Email, code);
             return new LoginResponseDto();
         }
 

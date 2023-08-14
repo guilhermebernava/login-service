@@ -10,7 +10,7 @@ public static class JwtGenerator
 {
     public static string GenerateToken(IConfiguration _configuration, User user)
     {
-        var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JWT:Secret"]));
+        var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Sec"]));
 
         var claims = new[]
         {
@@ -19,8 +19,8 @@ public static class JwtGenerator
         };
 
         var token = new JwtSecurityToken(
-            issuer: _configuration["JWT:ValidIssuer"],
-            audience: _configuration["JWT:ValidAudience"],
+            issuer: _configuration["Jwt:Issuer"],
+            audience: _configuration["Jwt:Audience"],
             expires: DateTime.Now.AddHours(1),
             claims: claims,
             signingCredentials: new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256)

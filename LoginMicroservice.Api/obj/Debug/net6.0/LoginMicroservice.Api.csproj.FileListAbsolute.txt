@@ -79,3 +79,5 @@ C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.
 C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Api\obj\Debug\net6.0\LoginMicroservice.Api.pdb
 C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Api\obj\Debug\net6.0\LoginMicroservice.Api.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Api\obj\Debug\net6.0\ref\LoginMicroservice.Api.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Api\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\LoginMicroservice\LoginMicroservice.Api\bin\Debug\net6.0\System.Threading.Channels.dll
